@@ -220,3 +220,32 @@
 [30Sep2025 01:45:15.041] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 lost connection: Disconnected
 [30Sep2025 01:45:15.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 left the game
 [30Sep2025 01:45:15.042] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client megatuber06
+[30Sep2025 01:47:58.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj was slain by Anubis_11
+[30Sep2025 01:48:48.447] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-449, y=63, z=-622} BlockPos{x=-440, y=65, z=-631}
+[30Sep2025 01:48:54.997] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-449, y=63, z=-622} BlockPos{x=-444, y=65, z=-623}
+[30Sep2025 01:48:56.751] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-449, y=63, z=-622} BlockPos{x=-444, y=64, z=-625}
+[30Sep2025 01:48:56.995] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-449, y=63, z=-622} BlockPos{x=-443, y=64, z=-624}
+[30Sep2025 01:49:46.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 has made the advancement [Suit Up]
+[30Sep2025 01:52:03.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anubis_11 was kicked for floating too long!
+[30Sep2025 01:52:03.503] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anubis_11 lost connection: Disconnected
+[30Sep2025 01:52:03.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 left the game
+[30Sep2025 01:52:03.503] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anubis_11
+[30Sep2025 01:52:03.568] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Sep2025 01:52:38.543] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emilghj lost connection: Disconnected
+[30Sep2025 01:52:38.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj left the game
+[30Sep2025 01:52:38.544] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client emilghj
+[30Sep2025 01:53:01.345] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anubis_11[/127.81.8.24:56547] logged in with entity id 21929 at (-421.97885264400423, 49.25220334025373, -517.5801243943297)
+[30Sep2025 01:53:01.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 joined the game
+[30Sep2025 01:53:01.521] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anubis_11 (20)
+[30Sep2025 01:53:01.521] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anubis_11
+[30Sep2025 01:53:03.985] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
+[30Sep2025 01:53:04.982] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
+[30Sep2025 01:53:04.982] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anubis_11 (0bdc3c98-e4a0-3902-8d49-26ad96fa683f) successfully connected to voice chat
+[30Sep2025 01:53:32.723] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emilghj[/127.137.204.25:40303] logged in with entity id 22279 at (-397.2849641043167, 39.0, -663.6823853364132)
+[30Sep2025 01:53:32.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj joined the game
+[30Sep2025 01:53:32.958] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of emilghj (20)
+[30Sep2025 01:53:32.959] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to emilghj
+[30Sep2025 01:53:35.143] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a58d4edc-d868-348c-a1ab-e8ddf9cff6a8
+[30Sep2025 01:53:36.145] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a58d4edc-d868-348c-a1ab-e8ddf9cff6a8
+[30Sep2025 01:53:36.146] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player emilghj (a58d4edc-d868-348c-a1ab-e8ddf9cff6a8) successfully connected to voice chat
+[30Sep2025 01:55:14.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj was shot by Skeleton
