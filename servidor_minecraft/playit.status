@@ -1,118 +1,1420 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.16.3): 1759189844605 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.16.3): 1759189962855 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.3): 1759189847716 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759189965972 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.3): 1759189850826 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759189969111 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.3): 1759189853948 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759189972243 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.3): 1759189857058 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759189975363 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.3): 1759189860169 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759189978472 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.3): 1759189863288 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759189981587 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.3): 1759189866400 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759189984707 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.3): 1759189869532 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759189987845 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.3): 1759189872643 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759189990967 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.3): 1759189875755 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759189994086 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.3): 1759189878875 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759189997201 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.3): 1759189881994 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759190000311 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.3): 1759189885120 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759190003429 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.3): 1759189888239 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759190006551 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.3): 1759189891361 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759190009671 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.3): 1759189894482 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759190012905 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.3): 1759189897605 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759190016019 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.3): 1759189900723 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759190019169 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.16.3): 1759189903844 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759190022297 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190025410 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190028528 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190031645 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190034762 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190037891 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190041012 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190044194 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190047307 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190050424 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190053568 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190056682 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190059797 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190062916 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190066027 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190069146 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190072257 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190075375 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190078496 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190081607 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190084743 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190087859 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190090971 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190094088 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190097205 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190100315 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190103430 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190106539 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190109654 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190112766 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190115883 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190118996 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190122109 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190125217 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190128326 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190131442 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190134557 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190137701 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190140825 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190143941 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190147068 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190150225 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190153356 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190156504 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190159667 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190162795 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190165904 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190169044 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190172152 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190175264 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190178393 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190181520 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190184631 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190187744 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190190852 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190193967 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190197081 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190200192 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190203313 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190206423 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190209534 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190212652 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190215765 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190218882 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190222005 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190225133 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190228243 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190231353 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190234463 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190237585 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190240703 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190243822 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190246940 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190250054 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190253218 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190256330 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190259446 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190262586 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190265702 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190268816 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190271939 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190275059 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190278169 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190281290 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190284404 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190287521 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190290635 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190293748 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190296943 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190300052 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190303197 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190306315 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190309426 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190312547 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190315657 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190318777 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190321893 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190325004 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190328128 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190331246 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190334356 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190337475 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190340583 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190343712 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190346832 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190349960 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190353089 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190356212 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190359338 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190362459 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190365572 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190368704 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190371850 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190374974 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190378104 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190381231 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190384339 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190387456 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190390567 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190393677 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190396844 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190399960 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190403076 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190406187 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190409298 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190412448 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190415556 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190418675 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190421790 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190424909 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190428020 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190431137 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190434245 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190437365 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190440475 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190443600 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190446756 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190449931 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190453061 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190456174 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190459310 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190462470 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190465590 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190468704 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190471821 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190474941 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190478059 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190481169 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190484278 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190487395 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190490505 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190493623 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190496738 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190499849 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190502990 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190506112 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190509223 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190512423 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190515539 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190518649 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190521764 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190524891 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190528027 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190531142 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190534261 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190537387 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190540497 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190543606 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190546723 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190549837 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190552946 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190556056 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190559171 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190562293 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190565424 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190568533 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190571654 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190574797 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190577918 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190581032 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190584145 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190587258 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190590375 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190593492 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190596619 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190599728 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190602838 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190605948 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190609063 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190612176 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190615284 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190618405 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190621526 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190624638 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190627750 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190630866 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190633984 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190637116 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190640233 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190643350 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190646505 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190649622 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190652732 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190655898 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190659059 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190662178 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190665289 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190668398 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190671511 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190674679 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190677790 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190680907 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190684027 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190687141 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190690250 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190693362 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190696472 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+la-variety.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+menu-bowl.gl.at.ply.gg:6315 => 127.0.0.1:6315 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759190699594 tunnel running, 2 tunnels registered
 
 
 TUNNELS
