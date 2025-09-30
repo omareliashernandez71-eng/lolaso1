@@ -258,3 +258,19 @@
 [30Sep2025 02:03:32.122] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-260, y=69, z=-679} BlockPos{x=-259, y=67, z=-680}
 [30Sep2025 02:03:32.169] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-260, y=69, z=-679} BlockPos{x=-259, y=67, z=-680}
 [30Sep2025 02:15:50.111] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-251, y=70, z=-701} BlockPos{x=-250, y=70, z=-700}
+[30Sep2025 02:33:42.042] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emilghj lost connection: Disconnected
+[30Sep2025 02:33:42.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj left the game
+[30Sep2025 02:33:42.043] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client emilghj
+[30Sep2025 02:35:20.893] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xClas06 lost connection: Disconnected
+[30Sep2025 02:35:20.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 left the game
+[30Sep2025 02:35:20.894] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xClas06
+[30Sep2025 02:35:36.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30Sep2025 02:35:36.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30Sep2025 02:35:36.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30Sep2025 02:35:36.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[30Sep2025 02:35:36.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[30Sep2025 02:35:36.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[30Sep2025 02:35:36.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[30Sep2025 02:35:36.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30Sep2025 02:35:36.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Sep2025 02:35:36.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
