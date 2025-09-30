@@ -187,3 +187,36 @@
 [30Sep2025 01:34:14.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> metete al grupo
 [30Sep2025 01:35:13.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> -277 -638
 [30Sep2025 01:35:13.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj has made the advancement [Sweet Dreams]
+[30Sep2025 01:37:01.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 has made the advancement [Monster Hunter]
+[30Sep2025 01:37:47.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [Not Today, Thank You]
+[30Sep2025 01:38:47.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> emil estas mute
+[30Sep2025 01:39:29.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> xaero-waypoint:a:A:-339:67:-549:9:false:0:Internal-overworld-waypoints
+[30Sep2025 01:40:15.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 has made the advancement [Isn't It Iron Pick]
+[30Sep2025 01:41:06.998] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emilghj lost connection: Disconnected
+[30Sep2025 01:41:06.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj left the game
+[30Sep2025 01:41:06.999] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client emilghj
+[30Sep2025 01:41:48.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> jeremy
+[30Sep2025 01:41:49.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> duermeeee
+[30Sep2025 01:41:50.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> que
+[30Sep2025 01:41:53.493] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anubis_11 lost connection: Disconnected
+[30Sep2025 01:41:53.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 left the game
+[30Sep2025 01:41:53.494] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anubis_11
+[30Sep2025 01:41:58.103] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anubis_11[/127.81.8.24:39347] logged in with entity id 17120 at (-265.5, 22.0, -637.5)
+[30Sep2025 01:41:58.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 joined the game
+[30Sep2025 01:41:58.257] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anubis_11 (20)
+[30Sep2025 01:41:58.257] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anubis_11
+[30Sep2025 01:42:01.014] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
+[30Sep2025 01:42:02.015] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
+[30Sep2025 01:42:02.016] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anubis_11 (0bdc3c98-e4a0-3902-8d49-26ad96fa683f) successfully connected to voice chat
+[30Sep2025 01:42:20.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> si te escuchamos
+[30Sep2025 01:43:21.001] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emilghj[/127.137.204.25:57733] logged in with entity id 17581 at (-224.292083121485, 63.0, -477.3882493771284)
+[30Sep2025 01:43:21.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj joined the game
+[30Sep2025 01:43:21.265] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of emilghj (20)
+[30Sep2025 01:43:21.266] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to emilghj
+[30Sep2025 01:43:23.378] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a58d4edc-d868-348c-a1ab-e8ddf9cff6a8
+[30Sep2025 01:43:24.381] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a58d4edc-d868-348c-a1ab-e8ddf9cff6a8
+[30Sep2025 01:43:24.381] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player emilghj (a58d4edc-d868-348c-a1ab-e8ddf9cff6a8) successfully connected to voice chat
+[30Sep2025 01:44:45.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> me voy
+[30Sep2025 01:45:15.041] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 lost connection: Disconnected
+[30Sep2025 01:45:15.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 left the game
+[30Sep2025 01:45:15.042] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client megatuber06
